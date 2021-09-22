@@ -1,0 +1,2 @@
+# -coldtoken
+Casper gold stablecoin
